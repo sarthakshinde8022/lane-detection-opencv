@@ -2,7 +2,7 @@
 
 AI Mini Project - provisional/draft. Detects left/right lane lines in road images and video with a classical OpenCV pipeline, plus temporal smoothing for stable video output.
 
-**Team:** [Student 1] - [Student 2] - [Student 3]
+**Team:** Sarthak Shinde - Pranav Keswad - Noel V.
 
 ![Pipeline stages](results/pipeline_stages.png)
 
